@@ -1,3 +1,5 @@
 # Laravel sample rating system
 
-averaging system - willvincent/laravel-rateable
+### 5 Star Rating System
+
+Star rating system - willvincent/laravel-rateable
