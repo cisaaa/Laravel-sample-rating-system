@@ -1,3 +1,3 @@
-#Laravel sample rating system
+# Laravel sample rating system
 
-average rating system - willvincent/laravel-rateable
+averaging system - willvincent/laravel-rateable
